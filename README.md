@@ -1,6 +1,6 @@
 # Jenkins Pipeline creation Automation
 
-Simple python script for automating jenkins pipeline creation
+Simple python scripts for automating jenkins pipeline creation
 
 ### Pre-requisites
 
